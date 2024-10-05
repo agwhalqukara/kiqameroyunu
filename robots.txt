@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kiqameroyunu.pages.dev/sitemap.xml
